@@ -1,85 +1,48 @@
-## Desenvolvimento Web
+# Habilidades
 
-### Front-end
-- HTML/CSS
-- Bootstrap
-- Tailwind
-- SCSS
-- Material
-- Angular Material
-- JavaScript (e Node.js)
-- TypeScript
-- Angular
-- jQuery
-- AJAX
+| Front-end                          | Front-end                            |
+|------------------------------------|--------------------------------------|
+| **HTML/CSS**                       | **Material**                         |
+| - Bootstrap                        | - JetPack Compose                    |
+| - Tailwind                         | - Angular Material                   |
+| - SCSS                             |                                      |
 
-### Back-end
-- ExpressJs e NestJs
-- C#
-- .NET
-- ASP.NET Core
-- Java
-- Spring
-- Python
-  - Django e Flask
-  - FastApi
-- PHP
-  - Laravel
-  - XAMPP
+| JavaScript (e Node.js)             | Back-end                             |
+|------------------------------------|--------------------------------------|
+| - ExpressJs e NestJs               | **C#**                               |
+| - TypeScript                       | - .NET                               |
+| - Angular                          | - ASP.NET Core                       |
+| - jQuery                           | **Java**                             |
+| - AJAX                             | - Spring                             |
+|                                    | - Android Studio                     |
 
-## Desenvolvimento Mobile
+| Data Science e Machine Learning    | Bancos de Dados                      |
+|------------------------------------|--------------------------------------|
+| **Python**                         | **SQL e NoSQL**                      |
+| - Django e Flask                   | - MySQL                              |
+| - FastApi                          | - SQL Server / TSQL                  |
+| - Pandas / Dask                    | - MariaDB                            |
+| - Matplotlib                       | - MongoDB                            |
+| - SciPy e NumPy                    |                                      |
+| - PyInstaller                      | **Wordpress**                        |
+| - PyAutoGui                        | **PHP**                              |
+| - Selenium e Mechanize             | - Laravel                            |
+| - SpaCy                            | - XAMPP                              |
 
-- JetPack Compose
-- Android Studio
+| Desenvolvimento de Sistemas        | Administração de Sistemas e DevOps   |
+|------------------------------------|--------------------------------------|
+| **C/C++**                          | **Sysadmin**                         |
+|                                    | - Windows (e Windows Server)         |
+|                                    | - Linux (Ubuntu, Arch, Debian, etc.) |
+|                                    | **DevOps**                           |
+|                                    | - Azure e AWS                        |
+|                                    | - Docker                             |
+|                                    | - Documentação                       |
 
-## Data Science e Machine Learning
-
-- Python
-  - Pandas / Dask
-  - Matplotlib
-  - SciPy e NumPy
-  - PyInstaller
-  - PyAutoGui
-  - Selenium e Mechanize
-  - SpaCy
-
-## Bancos de Dados
-
-- SQL e NoSQL
-- MySQL
-- SQL Server / TSQL
-- MariaDB
-- MongoDB
-
-## CMS
-
-- Wordpress
-
-## Desenvolvimento de Sistemas
-
-- C/C++
-- Lua
-
-## Administração de Sistemas e DevOps
-
-- Sysadmin
-- Windows (e Windows Server)
-- Linux (Ubuntu, Arch, Debian, etc.)
-- DevOps
-  - Azure e AWS
-  - Docker
-
-## Segurança e Redes
-
-- Redes
-- Pentest
-
-## Automação e Manutenção
-
-- Automações
-- Manutenção de Computadores
-
-## Outros
-
-- Documentação
-- Operar inteligência artificial
+| Segurança e Redes                 | Outros                               |
+|-----------------------------------|--------------------------------------|
+| **Redes**                         | **Automação e Manutenção**           |
+| **Pentest**                       | - Automações                         |
+|                                   | - Manutenção de Computadores         |
+|                                   | **Outros**                           |
+|                                   | - Operar inteligência artificial     |
