@@ -1,4 +1,7 @@
-|Teste|Teste|
+|- HTML/CSS
+  - Bootstrap
+  - Tailwind
+  - SCSS|Teste|
 |---|---|
 |oi|oi
 - HTML/CSS
