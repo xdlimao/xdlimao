@@ -1,9 +1,4 @@
-|- HTML/CSS
-  - Bootstrap
-  - Tailwind
-  - SCSS|Teste|
-|---|---|
-|oi|oi
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](#)
 - HTML/CSS
   - Bootstrap
   - Tailwind
