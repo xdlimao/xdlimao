@@ -17,7 +17,7 @@
   - [![Electron](https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=fff)](#)
 
 - [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
-  - Django e [![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](#)
+  - [![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](#) e [![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](#)
   - FastApi
   - Pandas / Dask
   - Matplotlib
