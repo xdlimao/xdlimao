@@ -1,5 +1,6 @@
 - [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)/[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#):
-  [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#) [![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#) [![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff)](#)
+  [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#) [![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#) [![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff)](#) [![HTMX](https://img.shields.io/badge/HTMX-36C?logo=htmx&logoColor=fff)](#)
+
 - Design:
   [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#) [![Gimp](https://img.shields.io/badge/Gimp-5C5543?logo=gimp&logoColor=white)](#) [![Inkscape](https://img.shields.io/badge/Inkscape-000000?logo=Inkscape&logoColor=white)](#) [![Krita](https://img.shields.io/badge/Krita-203759?logo=krita&logoColor=EEF37B)](#)
 
