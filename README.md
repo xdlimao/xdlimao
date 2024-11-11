@@ -1,2 +1,1 @@
-![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette1.wikia.nocookie.net%2Fanimefanon%2Fimages%2F3%2F37%2FOsaka_%2528Azumanga_Daioh%2529.jpg%2Frevision%2Flatest%3Fcb%3D20131225090831&f=1&nofb=1&ipt=4ad022ec987e8118790476329fac200c044459a0205a9b61664b12cd1f0cb4ea&ipo=images)![](https://us-tuna-sounds-images.voicemod.net/1f691bd6-a045-4116-90c8-3bf2ba25c94e-1704014116846.jpg)![](https://preview.redd.it/do-you-have-goofy-pics-of-your-pretty-cats-v0-51t4e3gnyvib1.jpg?auto=webp&s=27b628d946d585f415de91edb250544ccff0d02c)
 
